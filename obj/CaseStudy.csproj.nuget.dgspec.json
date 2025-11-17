@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/CaseStudy.csproj": {}
+    "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/CaseStudy.csproj": {}
   },
   "projects": {
-    "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/CaseStudy.csproj": {
+    "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/CaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/CaseStudy.csproj",
+        "projectUniqueName": "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/CaseStudy.csproj",
         "projectName": "CaseStudy",
-        "projectPath": "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/CaseStudy.csproj",
+        "projectPath": "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/CaseStudy.csproj",
         "packagesPath": "/Users/emiryasa/.nuget/packages/",
-        "outputPath": "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/obj/",
+        "outputPath": "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emiryasa/.nuget/NuGet/NuGet.Config"
@@ -44,9 +44,9 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

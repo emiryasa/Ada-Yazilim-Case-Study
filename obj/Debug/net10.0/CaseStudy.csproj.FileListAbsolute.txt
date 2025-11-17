@@ -31,3 +31,39 @@
 /Users/emiryasa/Desktop/adsız klasör/CaseStudy/obj/Debug/net10.0/CaseStudy.pdb
 /Users/emiryasa/Desktop/adsız klasör/CaseStudy/obj/Debug/net10.0/CaseStudy.genruntimeconfig.cache
 /Users/emiryasa/Desktop/adsız klasör/CaseStudy/obj/Debug/net10.0/ref/CaseStudy.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.csproj.AssemblyReference.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.AssemblyInfoInputs.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.AssemblyInfo.cs
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.csproj.CoreCompileInputs.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.MvcApplicationPartsAssemblyInfo.cs
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.MvcApplicationPartsAssemblyInfo.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.sourcelink.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/refint/CaseStudy.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.pdb
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/appsettings.Development.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/appsettings.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy.staticwebassets.endpoints.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy.deps.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy.runtimeconfig.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/CaseStudy.pdb
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/scopedcss/bundle/CaseStudy.styles.css
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/staticwebassets.build.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/staticwebassets.development.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/swae.build.ex.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.csproj.Up2Date
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/CaseStudy.genruntimeconfig.cache
+/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/obj/Debug/net10.0/ref/CaseStudy.dll

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FS7EToDUQk8=",
+  "dgSpecHash": "AOKVXD6FAOM=",
   "success": true,
-  "projectFilePath": "/Users/emiryasa/Desktop/adsız klasör/CaseStudy/CaseStudy.csproj",
+  "projectFilePath": "/Users/emiryasa/Desktop/Ada-Yaz-l-m-Case-Study/CaseStudy.csproj",
   "expectedPackageFiles": [
-    "/Users/emiryasa/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
-    "/Users/emiryasa/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/emiryasa/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/emiryasa/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/emiryasa/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/emiryasa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/emiryasa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/emiryasa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
   ],
   "logs": []
 }
